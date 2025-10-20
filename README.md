@@ -15,9 +15,10 @@ If you're looking for a talented developer to join your team or collaborate on a
 <p align="left">
 <a href="https://linkedin.com/in/sawan-kumar-056184327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sawan" height="30" width="40" /></a>
 <a href="https://instagram.com/sawan_yadav7479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sawan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sawanyadav7479" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+<a href="https://www.youtube.com/@sawanyadav7479" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" />
 </a>
+
 </p>
 
 <h1 align="center">Languages and Tools</h1>
