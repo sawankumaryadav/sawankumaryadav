@@ -46,15 +46,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veerkbharti" alt="veerkbharti" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderSawan1&show_icons=true&locale=en&layout=compact" alt="Sawan kumar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderSawan1&show_icons=true&locale=en" alt="Sawan kumar" /></p>
-
-<!-- <p><img align="center" src="https:///?user=veerkbharti&" alt="simransingh08" /></p> -->
-
-
-<br>
  
