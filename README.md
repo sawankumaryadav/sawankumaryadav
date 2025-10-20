@@ -13,11 +13,11 @@ I love to learn and grow in my field, and I'm always excited about the opportuni
 If you're looking for a talented developer to join your team or collaborate on a project, I'd love to hear from you! Feel free to connect with me here on GitHub.
 
 <p align="left">
-<a href="https://codepen.io/santoshcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="santoshcoderr" height="30" width="40" /></a>
-<a href="https://dev.to/santoshcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="santoshkumar" height="30" width="40" /></a>
-<a href="https://twitter.com/santoshcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoshcoderr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santosh-kumar-242433209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veerkbharti" height="30" width="40" /></a>
-<a href="https://codesandbox.com/Santoshkumarbishwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="veerkbharti" height="30" width="40" /></a>
+<a href="https://codepen.io/Sawancoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Sawancoderr" height="30" width="40" /></a>
+<a href="https://dev.to/Sawancoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Sawankumar" height="30" width="40" /></a>
+<a href="https://twitter.com/Sawancoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sawancoderr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Sawan-kumar-242433209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veerkbharti" height="30" width="40" /></a>
+<a href="https://codesandbox.com/Sawankumarbishwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="veerkbharti" height="30" width="40" /></a>
 <a href="https://instagram.com/yaduvanshiking1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veerkbharti" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/veerkbharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="veerkbharti" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/veerkbharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="veerkbharti" height="30" width="40" /></a>
@@ -78,9 +78,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veerkbharti" alt="veerkbharti" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderSantosh1&show_icons=true&locale=en&layout=compact" alt="santosh kumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderSawan1&show_icons=true&locale=en&layout=compact" alt="Sawan kumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderSantosh1&show_icons=true&locale=en" alt="santosh kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderSawan1&show_icons=true&locale=en" alt="Sawan kumar" /></p>
 
 <!-- <p><img align="center" src="https:///?user=veerkbharti&" alt="simransingh08" /></p> -->
 
@@ -89,4 +89,4 @@ You can click the Preview link to take a look at your changes.
 <p><a href="https://www.buymeacoffee.com/veerkbharti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="veerkbharti" /></a></p><br><br>
 
 <br>
-<p align="center"><a href="https://app.daily.dev/santoshcoder"><img src="https://api.daily.dev/devcards/v2/DULLZgsiouFTfLOeilf4d.png?type=default&r=rbk" width="356" alt="Santosh's Dev Card"/></a></a></p>  
+ 
