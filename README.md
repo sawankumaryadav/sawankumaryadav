@@ -13,7 +13,7 @@ I love to learn and grow in my field, and I'm always excited about the opportuni
 If you're looking for a talented developer to join your team or collaborate on a project, I'd love to hear from you! Feel free to connect with me here on GitHub.
 
 <p align="left">
-<a href="https://linkedin.com/in/santosh-kumar-242433209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sawan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sawan-kumar-056184327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sawan" height="30" width="40" /></a>
 <a href="https://codesandbox.com/Sawankumarbishwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="veerkbharti" height="30" width="40" /></a>
 <a href="https://instagram.com/yaduvanshiking1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veerkbharti" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/veerkbharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="veerkbharti" height="30" width="40" /></a>
