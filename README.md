@@ -1,8 +1,8 @@
 # sawankumaryada![MasterHead](https://github.com/veerkbharti/veerkbharti/blob/main/banner.gif)
 
 
-<h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
-<p align="center">I'm a passionate full-stack developer with 2 years of experience building web applications. I'm proficient in a variety of technologies, including JavaScript, Node.js,  React, Angular, SQL/NoSQL databases, Docker and Git.</p>
+<h1 align="center">Hi 👋, I'm Sawan Kumar</h1>
+<p align="center">I'm a passionate Frontend developer with 1 years of experience building web applications. I'm proficient in a variety of technologies, including JavaScript  React, javascript,html,css and Git.</p>
 
 # About Me
 
