@@ -1,4 +1,4 @@
-# sawankumaryada![MasterHead](https://github.com/veerkbharti/veerkbharti/blob/main/banner.gif)
+![MasterHead](https://github.com/veerkbharti/veerkbharti/blob/main/banner.gif)
 
 
 <h1 align="center">Hi 👋, I'm Sawan Kumar</h1>
